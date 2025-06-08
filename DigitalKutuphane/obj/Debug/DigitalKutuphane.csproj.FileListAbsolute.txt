@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\DigitalKutuphane\DigitalKutuphane\bin\Debug\DigitalKutuphane.exe.config
+C:\Users\user\source\repos\DigitalKutuphane\DigitalKutuphane\bin\Debug\DigitalKutuphane.exe
+C:\Users\user\source\repos\DigitalKutuphane\DigitalKutuphane\bin\Debug\DigitalKutuphane.pdb
+C:\Users\user\source\repos\DigitalKutuphane\DigitalKutuphane\obj\Debug\DigitalKutuphane.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DigitalKutuphane\DigitalKutuphane\obj\Debug\DigitalKutuphane.Form1.resources
+C:\Users\user\source\repos\DigitalKutuphane\DigitalKutuphane\obj\Debug\DigitalKutuphane.Properties.Resources.resources
+C:\Users\user\source\repos\DigitalKutuphane\DigitalKutuphane\obj\Debug\DigitalKutuphane.csproj.GenerateResource.cache
+C:\Users\user\source\repos\DigitalKutuphane\DigitalKutuphane\obj\Debug\DigitalKutuphane.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DigitalKutuphane\DigitalKutuphane\obj\Debug\DigitalKutuphane.exe
+C:\Users\user\source\repos\DigitalKutuphane\DigitalKutuphane\obj\Debug\DigitalKutuphane.pdb
+C:\Users\user\source\repos\DigitalKutuphane\DigitalKutuphane\obj\Debug\DigitalKutuphane.exe.config
